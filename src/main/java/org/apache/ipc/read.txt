@@ -1,0 +1,13 @@
+用的的配置参数
+ipc.client.connection.maxidletime
+ipc.client.connect.max.retries
+ipc.client.tcpnodelay
+ipc.ping.interval
+ipc.server.listen.queue.size
+ipc.server.handler.queue.size
+ipc.server.max.response.size
+ipc.server.read.threadpool.size
+ipc.client.connection.maxidletime
+ipc.client.kill.max
+ipc.client.idlethreshold
+ipc.server.tcpnodelay
